@@ -1,0 +1,25 @@
+# Файлы и папки Visual Studio
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Каталоги выходных файлов CMake
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+*.cbp
+Makefile
+install_manifest.txt
+
+# Каталоги временных файлов
+out/
+build/
+Debug/
+Release/
+
+# Файлы логов и дампов
+*.log
+*.tmp
+*.bak
+*.swp
